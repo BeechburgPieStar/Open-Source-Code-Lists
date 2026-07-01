@@ -22,6 +22,8 @@ We focus on **physical-layer security** and **AI-driven wireless communications*
 
 | Year | Title | Venue | Links |
 |:----:|-------|-------|:-----:|
+| 2026 | WaveMLP: Cross-Receiver-Day RF Fingerprinting with Learnable Complex Wavelets | IMNS'26 | [Paper]() · [Code](https://github.com/BeechburgPieStar/WaveMLP-RFF) |
+| 2026 | Label-Free Performance Estimation for RF Fingerprinting Under Varying Channels | IEEE COMST | [Paper](ICCC'26) · [Code](https://github.com/BeechburgPieStar/LFPE-RFF) |
 | 2025 | A Comprehensive Survey on Self Supervised Learning for Specific Emitter Identification | IEEE COMST | [Paper](https://ieeexplore.ieee.org/document/11078425) · [Code](https://github.com/LIUC-000/SSL-SEI_Survey) |
 | 2025 | Robust Cross-Domain Drone RFFI Method Using Domain-Invariant Adversarial Learning and Manifold Regularization | IEEE TCCN | [Paper](https://ieeexplore.ieee.org/document/10966460) · [Code](https://github.com/Edith-xx/DIAL-for-Cross-Domain-UAV-RFFI) |
 | 2025 | Cross-Channel Specific Emitter Identification via Meta-Feature Augmentation-Enhanced Few-Shot Learning | IEEE IoT-J | [Paper](https://ieeexplore.ieee.org/abstract/document/11289534) · [Code](https://github.com/lovelymimola/MFA-FSL-IoTJ-Version) |
