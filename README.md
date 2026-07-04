@@ -6,7 +6,7 @@ We focus on **physical-layer security** and **AI-driven wireless communications*
 
 | Research Area | Description |
 |---------------|-------------|
-| **SEI / RFF** | Specific Emitter Identification & RF Fingerprinting |
+| **SEI / RFF** | Specific Emitter Identification & Radio Frequency Fingerprinting |
 | **AMC / WTR** | Automatic Modulation Classification & Wireless Technology Recognition |
 | **Wireless Communications** | Power Amplifier Modeling, Beam Prediction |
 | **Ubiquitous Sensing** | Localization, Activity Recognition, Scenario Identification |
