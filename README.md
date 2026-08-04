@@ -23,7 +23,7 @@ We focus on **physical-layer security** and **AI-driven wireless communications*
 | Year | Title | Venue | Links |
 |:----:|-------|-------|:-----:|
 | 2026 |Wavelet-Guided Frequency Decoupling for Channel-Robust UAV RFFI| IEEE WCL| [Paper]() · [Code](https://github.com/Edith-xx/Channel-Robust-UAV-RFFI) |
-| 2026 | ASKNet: Adaptive Spectral Koopman Network for Cross-Domain Radio Frequency Fingerprinting | IEEE CL| [Paper]() · [Code](https://github.com/BeechburgPieStar/ASKNet-RFF) |
+| 2026 | ASKNet: Adaptive Spectral Koopman Network for Cross-Domain Radio Frequency Fingerprinting | IEEE CL| [Paper](https://ieeexplore.ieee.org/document/11638066) · [Code](https://github.com/BeechburgPieStar/ASKNet-RFF) |
 | 2026 | Information Bottleneck-Driven Cross-Receiver RF Fingerprinting for Physical-Layer Security | IEEE TIFS | [Paper]() · [Code](https://github.com/BeechburgPieStar/IB-RFF) |
 | 2026 | WaveMLP: Cross-Receiver-Day RF Fingerprinting with Learnable Complex Wavelets | IMNS'26 | [Paper]() · [Code](https://github.com/BeechburgPieStar/WaveMLP-RFF) |
 | 2026 | Label-Free Performance Estimation for RF Fingerprinting Under Varying Channels | ICCC'26 | [Paper]() · [Code](https://github.com/BeechburgPieStar/LFPE-RFF) |
