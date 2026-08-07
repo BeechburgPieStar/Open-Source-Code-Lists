@@ -6,8 +6,6 @@
 <!-- ===== SLOGAN: Keep Calm and Carry On ===== -->
 [![Keep Calm and Carry On](https://img.shields.io/badge/%F0%9F%91%91%20KEEP%20CALM%20AND%20CARRY%20ON-C8102E?style=for-the-badge&labelColor=C8102E)](https://en.wikipedia.org/wiki/Keep_Calm_and_Carry_On)
 
-<sub><i>— our group motto</i></sub>
-
 <br/><br/>
 
 <!-- Summary badges -->
