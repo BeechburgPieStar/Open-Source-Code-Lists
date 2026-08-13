@@ -1,8 +1,6 @@
 <!-- ======================= HEADER BANNER ======================= -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:c471ed,100:f64f59&height=190&section=header&text=Publications%20%26%20Code&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Physical-Layer%20Security%20%C2%B7%20AI-driven%20Wireless%20Communications&descSize=16&descAlignY=60&animation=fadeIn" />
-
 <!-- ===== SLOGAN: Keep Calm and Carry On ===== -->
 [![Keep Calm and Carry On](https://img.shields.io/badge/%F0%9F%91%91%20KEEP%20CALM%20AND%20CARRY%20ON-C8102E?style=for-the-badge&labelColor=C8102E)](https://en.wikipedia.org/wiki/Keep_Calm_and_Carry_On)
 
