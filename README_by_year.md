@@ -48,6 +48,7 @@ We focus on **physical-layer security** and **AI-driven wireless communications*
 
 | Title | Topic | Venue | Links |
 |-------|:-----:|-------|:-----:|
+| Harnessing Second-Order Statistics for Cross-Scenario Over-the-Air Modulation Classification | AMC | IEEE WCL | [Paper]() · [Code](https://github.com/BeechburgPieStar/HermNet-AMC) |
 | Wavelet-Guided Frequency Decoupling for Channel-Robust UAV RFFI | `SEI/RFF` | IEEE WCL | [Paper](https://ieeexplore.ieee.org/document/11643808/) · [Code](https://github.com/Edith-xx/Channel-Robust-UAV-RFFI) |
 | ASKNet: Adaptive Spectral Koopman Network for Cross-Domain Radio Frequency Fingerprinting | `SEI/RFF` | IEEE CL | [Paper](https://ieeexplore.ieee.org/document/11638066) · [Code](https://github.com/BeechburgPieStar/ASKNet-RFF) |
 | Information Bottleneck-Driven Cross-Receiver RF Fingerprinting for Physical-Layer Security | `SEI/RFF` | IEEE TIFS | [Paper](https://ieeexplore.ieee.org/document/11653216) · [Code](https://github.com/BeechburgPieStar/IB-RFF) |
