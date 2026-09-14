@@ -86,7 +86,7 @@ We focus on **physical-layer security** and **AI-driven wireless communications*
 
 | Year | Title | Venue | Links |
 |:----:|-------|-------|:-----:|
-| 2026 | Harnessing Second-Order Statistics for Cross-Scenario Over-the-Air Modulation Classification | IEEE WCL | [Paper]() · [Code](https://github.com/BeechburgPieStar/HermNet-AMC) |
+| 2026 | Harnessing Second-Order Statistics for Cross-Scenario Over-the-Air Modulation Classification | IEEE WCL | [Paper](https://ieeexplore.ieee.org/document/11690615) · [Code](https://github.com/BeechburgPieStar/HermNet-AMC) |
 | 2025 | Energy-Efficient Wireless Technology Recognition Method Using Time-Frequency Feature Fusion Spiking Neural Networks | IEEE TIFS | [Paper](https://ieeexplore.ieee.org/abstract/document/10876404) · [Code](https://github.com/fan-bread/TFSNN-WTR) |
 | 2022 | Federated Learning for Automatic Modulation Classification Under Class Imbalance and Varying Noise Condition | IEEE TCCN | [Paper](https://ieeexplore.ieee.org/abstract/document/9456904/) · [Code](https://github.com/BeechburgPieStar/FLAMC) |
 | 2022 | A Lightweight Decentralized Learning-Based Automatic Modulation Classification Method for Resource-Constrained Edge Devices | IEEE IoT-J | [Paper](https://ieeexplore.ieee.org/document/9844135/) · [Code](https://github.com/dongbiao321/MCMBNN-for-CentAMC-and-DecentAMC) |
