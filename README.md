@@ -49,6 +49,7 @@ We focus on **physical-layer security** and **AI-driven wireless communications*
 
 | Year | Title | Venue | Links |
 |:----:|-------|-------|:-----:|
+| 2026 | SpectralX: A Unified Spectral-Aware Architecture for Radio Signal Analysis | IEEE CL | [Paper](https://ieeexplore.ieee.org/abstract/document/11737593/) · [Code](https://github.com/BeechburgPieStar/SpectralX) |
 | 2026 | Wavelet-Guided Frequency Decoupling for Channel-Robust UAV RFFI | IEEE WCL | [Paper](https://ieeexplore.ieee.org/document/11643808/) · [Code](https://github.com/Edith-xx/Channel-Robust-UAV-RFFI) |
 | 2026 | ASKNet: Adaptive Spectral Koopman Network for Cross-Domain Radio Frequency Fingerprinting | IEEE CL | [Paper](https://ieeexplore.ieee.org/document/11638066) · [Code](https://github.com/BeechburgPieStar/ASKNet-RFF) |
 | 2026 | Information Bottleneck-Driven Cross-Receiver RF Fingerprinting for Physical-Layer Security | IEEE TIFS | [Paper](https://ieeexplore.ieee.org/document/11653216) · [Code](https://github.com/BeechburgPieStar/IB-RFF) |
@@ -86,6 +87,7 @@ We focus on **physical-layer security** and **AI-driven wireless communications*
 
 | Year | Title | Venue | Links |
 |:----:|-------|-------|:-----:|
+| 2026 | SpectralX: A Unified Spectral-Aware Architecture for Radio Signal Analysis | IEEE CL | [Paper](https://ieeexplore.ieee.org/abstract/document/11737593/) · [Code](https://github.com/BeechburgPieStar/SpectralX) |
 | 2026 | Harnessing Second-Order Statistics for Cross-Scenario Over-the-Air Modulation Classification | IEEE WCL | [Paper](https://ieeexplore.ieee.org/document/11690615) · [Code](https://github.com/BeechburgPieStar/HermNet-AMC) |
 | 2025 | Energy-Efficient Wireless Technology Recognition Method Using Time-Frequency Feature Fusion Spiking Neural Networks | IEEE TIFS | [Paper](https://ieeexplore.ieee.org/abstract/document/10876404) · [Code](https://github.com/fan-bread/TFSNN-WTR) |
 | 2022 | Federated Learning for Automatic Modulation Classification Under Class Imbalance and Varying Noise Condition | IEEE TCCN | [Paper](https://ieeexplore.ieee.org/abstract/document/9456904/) · [Code](https://github.com/BeechburgPieStar/FLAMC) |
@@ -112,6 +114,7 @@ We focus on **physical-layer security** and **AI-driven wireless communications*
 
 | Year | Title | Venue | Links |
 |:----:|-------|-------|:-----:|
+| 2026 | SpectralX: A Unified Spectral-Aware Architecture for Radio Signal Analysis | IEEE CL | [Paper](https://ieeexplore.ieee.org/abstract/document/11737593/) · [Code](https://github.com/BeechburgPieStar/SpectralX) |
 | 2026 | ViSpa: Visual-Spatial Interactive Fusion for 3D UAV Localization in mmWave Communications | IEEE CL | [Paper](https://ieeexplore.ieee.org/document/11435965) · [Code](https://github.com/BeechburgPieStar/ViSpa-UAVLoc) |
 | 2025 | Bio-Inspired Dendritic Liquid Neural Network for Robust Near-Field Positioning in B5G/6G | IEEE WCL | [Paper](https://ieeexplore.ieee.org/document/11222702) · [Code](https://github.com/zqh112/Near-Field-Positioning--DLNN) |
 | 2025 | Regularized Multi-Label Learning Empowered Joint Activity Recognition and Indoor Localization With CSI Fingerprints | IEEE TWC | [Paper](https://ieeexplore.ieee.org/abstract/document/10659363) · [Code](https://github.com/BeechburgPieStar/JARIL) |
