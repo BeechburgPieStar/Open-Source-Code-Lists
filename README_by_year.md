@@ -48,6 +48,7 @@ We focus on **physical-layer security** and **AI-driven wireless communications*
 
 | Title | Topic | Venue | Links |
 |-------|:-----:|-------|:-----:|
+| SpectralX: A Unified Spectral-Aware Architecture for Radio Signal Analysis | `AMC/RFF/Sensing` | IEEE CL | [Paper](https://ieeexplore.ieee.org/abstract/document/11737593/) · [Code](https://github.com/BeechburgPieStar/SpectralX) |
 | Harnessing Second-Order Statistics for Cross-Scenario Over-the-Air Modulation Classification | `AMC/WTR` | IEEE WCL | [Paper](https://ieeexplore.ieee.org/document/11690615) · [Code](https://github.com/BeechburgPieStar/HermNet-AMC) |
 | Wavelet-Guided Frequency Decoupling for Channel-Robust UAV RFFI | `SEI/RFF` | IEEE WCL | [Paper](https://ieeexplore.ieee.org/document/11643808/) · [Code](https://github.com/Edith-xx/Channel-Robust-UAV-RFFI) |
 | ASKNet: Adaptive Spectral Koopman Network for Cross-Domain Radio Frequency Fingerprinting | `SEI/RFF` | IEEE CL | [Paper](https://ieeexplore.ieee.org/document/11638066) · [Code](https://github.com/BeechburgPieStar/ASKNet-RFF) |
