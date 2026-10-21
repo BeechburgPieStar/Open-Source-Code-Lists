@@ -44,7 +44,7 @@ We focus on **physical-layer security** and **AI-driven wireless communications*
 
 ## 🗓️ Publications by Year
 
-#### 📅 2026 &nbsp;![count](https://img.shields.io/badge/7-12c2e9?style=flat-square)
+#### 📅 2026 &nbsp;![count](https://img.shields.io/badge/9-12c2e9?style=flat-square)
 
 | Title | Topic | Venue | Links |
 |-------|:-----:|-------|:-----:|
